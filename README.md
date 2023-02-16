@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vap0rwaves
-- 👀 I’m interested in Video Game Reverse Engineering and Rust.
+- 👀 I’m interested in Rust.
 - 📚 I blog over at https://medium.com/@vap0rwaves
 <!---
 vap0rwaves/vap0rwaves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
