@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ohchase
+- 📫 Contact me at ohchase@proton.me
 
 ---
 
